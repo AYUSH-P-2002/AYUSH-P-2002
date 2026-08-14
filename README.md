@@ -66,6 +66,7 @@ I'm a **Full Stack & AI Developer based in India** with 2+ years of experience b
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AYUSH-P-2002&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSH-P-2002&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=AYUSH-P-2002&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
