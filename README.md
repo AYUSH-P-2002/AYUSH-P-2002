@@ -2,7 +2,7 @@
 <p align="center"><b>Full Stack & AI Developer · Crafting Scalable & Smart Systems</b></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ayush-patel-1981a4278"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/ayush-patel-1981a4278/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:ayushpatel1252002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" /></a>
 </p>
 
@@ -72,6 +72,5 @@ I'm a **Full Stack & AI Developer based in India** with 2+ years of experience b
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-AYUSH_PATEL-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_ID"><img src="https://img.shields.io/badge/LeetCode-AYUSH_PATEL-FFA116?style=for-the-badge&logo=leetcode" /></a>
+  <a href="https://www.linkedin.com/in/ayush-patel-1981a4278/"><img src="https://img.shields.io/badge/LinkedIn-AYUSH_PATEL-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 </p>
