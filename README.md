@@ -64,9 +64,12 @@ I'm a **Full Stack & AI Developer based in India** with 2+ years of experience b
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYUSH-P-2002&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=AYUSH-P-2002&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=AYUSH-P-2002&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AYUSH-P-2002&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=AYUSH-P-2002&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSH-P-2002&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
 </p>
 
 ---
