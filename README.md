@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-patel-1981a4278/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:ayushpatel1252002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
